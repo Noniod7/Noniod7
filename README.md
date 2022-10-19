@@ -8,6 +8,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noniod7&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Noniod7(@Noniod7)'s Github Stats"><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noniod7&layout=compact)
+
 <h4>𝙵𝚘𝚕𝚕𝚘𝚠 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎</h4>
 <a href="https://www.linkedin.com/in/Noniod7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
 <a href="https://www.instagram.com/Noniod7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp; 
