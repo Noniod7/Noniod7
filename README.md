@@ -15,6 +15,9 @@
 <a href="https://twitter.com/Noniod7?s=09/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; 
 <a href="https://www.facebook.com/Noniod7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
 
+## Visitors
+<img align="center" src="https://count.getloli.com/get/@Noniod7?theme=asoul">
+
 ---
 
 </div>
